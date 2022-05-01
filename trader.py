@@ -1,6 +1,6 @@
 # ByBit Trading Bot V1.1.0
-# Creator: Nikhil Ranchod
-# Contributors: Alex Michaelides
+# Creator: walid boulanour
+
 # Created: 22/08/2021
 # Background: High Frequency trading bot that works in crypto bull market on the ByBit platform
 # ------------------------------------------------------------------------------------------------------------------- #
